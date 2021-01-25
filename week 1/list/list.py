@@ -22,7 +22,7 @@ list = [1,62,38,4,45,6,7]
 # print(listValue(list))
 
 
-a = [3, 1, 5, 2, 4]
+a = [25, 45, 36, 47, 69, 48, 68, 78, 14, 36]
 
 def sortList(a):
     for i in a[1:]:
