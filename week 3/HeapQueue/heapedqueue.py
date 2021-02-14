@@ -8,7 +8,7 @@ class HeapQueueMax:
             
 
     def maxVal(self):
-        maxItem = self.heap[0]
+        maxItem = self.heap[3]
         maxList = []
         for x in range(1, len(self.heap)):
             if maxItem < self.heap[x]:

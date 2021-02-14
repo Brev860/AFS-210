@@ -3,10 +3,6 @@ class Node:
         self.data = d 
         self.left = None
         self.right = None
-  
-
-
-
 
 class BSTTree:
     def __init__(self):
