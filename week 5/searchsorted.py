@@ -23,4 +23,4 @@ def search(arrs, x):
         return False
 
 a = [4,8,10,17,23,45,77]
-print(search(a, 72))
+print(search(a, 77))

@@ -1,4 +1,4 @@
-def countingSort(arr):
+def count_Sort(arr):
     size = len(arr)
     output = [0] * size
 
@@ -21,6 +21,6 @@ def countingSort(arr):
 
 
 arr = [7,1,2,1,4,2,3,1,2,3,2]
-countingSort(arr)
+count_Sort(arr)
 
 print(arr)
